@@ -1,0 +1,10 @@
+{
+  "start": {
+
+  },
+  "stop": {
+
+  },
+  "build": "docker build -t hi5 ../hi5/"
+
+}
